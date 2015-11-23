@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="no"?> 
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <font id="icons" horiz-adv-x="500">
+    <font-face font-family="icons"
+      units-per-em="500" ascent="500"
+      descent="0" />
+    <missing-glyph horiz-adv-x="0" />
+    <glyph glyph-name="facebook"
+      unicode="&#xEA01;"
+      horiz-adv-x="500" d=" M416.6720000000001 500H83.328C37.323 500 0 462.677 0 416.656V83.3440000000001C0 37.3240000000001 37.292 0 83.328 0H250V218.75H187.5V281.25H250V328.125C250 371.245 285.004 406.25 328.125 406.25H406.25V343.75H328.125C319.505 343.75 312.5 336.746 312.5 328.125V281.25H398.438L382.813 218.75H312.5V0H416.6720000000001C462.677 0 500 37.323 500 83.3440000000001V416.656C500 462.676 462.707 500 416.6720000000001 500z" />
+  </font>
+</defs>
+</svg>
