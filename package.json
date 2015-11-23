@@ -16,11 +16,11 @@
   },
   "repository": [
     {
-      "type": "",
-      "url": ""
+      "type": "git",
+      "url": "https://github.com/DaneTheory/Abyss.git"
     }
   ],
-  "homepage": "",
+  "homepage": "http://danetheory.github.io/Abyss",
   "scripts": {
     "deploy": "gulp deploy",
     "production": "gulp production",
